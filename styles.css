@@ -1,0 +1,45 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 90%;
+    background-color: white;
+    width: 790px;
+    margin: 0 auto;
+    border: 3px solid blue;
+    padding: 1em;
+    text-align: center; 
+}
+
+h1 {
+    color: blue;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+    padding: 10px 0; 
+    font-size: 16px; 
+    text-align: center;
+    line-height: 1.4; 
+  }
+  
+
+
+.centered {
+    text-align: center; 
+    margin-top: 20px; 
+}
+
+a {
+    text-decoration: none; 
+  }
+  
+
+#adBanner {
+    width: 250px; 
+    height: 200px; 
+    max-width: 40%; 
+    display: block; 
+    margin: 0 auto; 
+}
+
